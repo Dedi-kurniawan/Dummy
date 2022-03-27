@@ -1,0 +1,687 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+"type": "Feature",
+"properties": {
+"id": 1,
+"name": "Reprehenderit Veritatis",
+"address": "44477 Rosemarie Vista\nNicolasville, WV 50269-4031",
+"latitude": "-3.281524",
+"longitude": "102.016056",
+"creator_id": 1,
+"created_at": "2022-02-17T07:27:25.000000Z",
+"updated_at": "2022-02-17T07:27:25.000000Z",
+"coordinate": "-3.281524, 102.016056",
+"map_popup_content": "<div class=\"my-2\"><strong>Outlet Name:</strong><br><a href=\"http://laravel-leaflet-example.test/outlets/1\" title=\"View Reprehenderit Veritatis Outlet detail\">Reprehenderit Veritatis</a></div><div class=\"my-2\"><strong>Coordinate:</strong><br>-3.281524, 102.016056</div>"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+"102.016056",
+"-3.281524"
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": 2,
+"name": "Enim Sunt",
+"address": "41891 Howell Loop Apt. 867\nEdenfurt, WV 90815",
+"latitude": "-3.308237",
+"longitude": "101.990529",
+"creator_id": 2,
+"created_at": "2022-02-17T07:27:25.000000Z",
+"updated_at": "2022-02-17T07:27:25.000000Z",
+"coordinate": "-3.308237, 101.990529",
+"map_popup_content": "<div class=\"my-2\"><strong>Outlet Name:</strong><br><a href=\"http://laravel-leaflet-example.test/outlets/2\" title=\"View Enim Sunt Outlet detail\">Enim Sunt</a></div><div class=\"my-2\"><strong>Coordinate:</strong><br>-3.308237, 101.990529</div>"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+"101.990529",
+"-3.308237"
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": 3,
+"name": "Quisquam Sed",
+"address": "11272 Watsica Pass\nEast Erickafurt, UT 38228-2354",
+"latitude": "-3.30174",
+"longitude": "101.914431",
+"creator_id": 3,
+"created_at": "2022-02-17T07:27:25.000000Z",
+"updated_at": "2022-02-17T07:27:25.000000Z",
+"coordinate": "-3.30174, 101.914431",
+"map_popup_content": "<div class=\"my-2\"><strong>Outlet Name:</strong><br><a href=\"http://laravel-leaflet-example.test/outlets/3\" title=\"View Quisquam Sed Outlet detail\">Quisquam Sed</a></div><div class=\"my-2\"><strong>Coordinate:</strong><br>-3.30174, 101.914431</div>"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+"101.914431",
+"-3.30174"
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": 4,
+"name": "Veritatis Possimus",
+"address": "644 Eulah Parkway Apt. 166\nLebsackport, HI 08231-5573",
+"latitude": "-3.257741",
+"longitude": "101.912089",
+"creator_id": 4,
+"created_at": "2022-02-17T07:27:26.000000Z",
+"updated_at": "2022-02-17T07:27:26.000000Z",
+"coordinate": "-3.257741, 101.912089",
+"map_popup_content": "<div class=\"my-2\"><strong>Outlet Name:</strong><br><a href=\"http://laravel-leaflet-example.test/outlets/4\" title=\"View Veritatis Possimus Outlet detail\">Veritatis Possimus</a></div><div class=\"my-2\"><strong>Coordinate:</strong><br>-3.257741, 101.912089</div>"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+"101.912089",
+"-3.257741"
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": 5,
+"name": "Officiis Totam",
+"address": "234 Lera Way\nLake Maryamville, CO 13861-2307",
+"latitude": "-3.249238",
+"longitude": "101.977589",
+"creator_id": 5,
+"created_at": "2022-02-17T07:27:26.000000Z",
+"updated_at": "2022-02-17T07:27:26.000000Z",
+"coordinate": "-3.249238, 101.977589",
+"map_popup_content": "<div class=\"my-2\"><strong>Outlet Name:</strong><br><a href=\"http://laravel-leaflet-example.test/outlets/5\" title=\"View Officiis Totam Outlet detail\">Officiis Totam</a></div><div class=\"my-2\"><strong>Coordinate:</strong><br>-3.249238, 101.977589</div>"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+"101.977589",
+"-3.249238"
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": 6,
+"name": "Maxime Blanditiis",
+"address": "794 Armani Mountain\nDaijastad, KY 26524-3396",
+"latitude": "-3.305791",
+"longitude": "101.967003",
+"creator_id": 6,
+"created_at": "2022-02-17T07:27:26.000000Z",
+"updated_at": "2022-02-17T07:27:26.000000Z",
+"coordinate": "-3.305791, 101.967003",
+"map_popup_content": "<div class=\"my-2\"><strong>Outlet Name:</strong><br><a href=\"http://laravel-leaflet-example.test/outlets/6\" title=\"View Maxime Blanditiis Outlet detail\">Maxime Blanditiis</a></div><div class=\"my-2\"><strong>Coordinate:</strong><br>-3.305791, 101.967003</div>"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+"101.967003",
+"-3.305791"
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": 7,
+"name": "Molestiae Inventore",
+"address": "96073 Otis Crossing Suite 911\nEast Zoeview, IL 48493",
+"latitude": "-3.217744",
+"longitude": "102.048141",
+"creator_id": 7,
+"created_at": "2022-02-17T07:27:26.000000Z",
+"updated_at": "2022-02-17T07:27:26.000000Z",
+"coordinate": "-3.217744, 102.048141",
+"map_popup_content": "<div class=\"my-2\"><strong>Outlet Name:</strong><br><a href=\"http://laravel-leaflet-example.test/outlets/7\" title=\"View Molestiae Inventore Outlet detail\">Molestiae Inventore</a></div><div class=\"my-2\"><strong>Coordinate:</strong><br>-3.217744, 102.048141</div>"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+"102.048141",
+"-3.217744"
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": 8,
+"name": "Voluptatem Molestias",
+"address": "71029 D'Amore Shoal\nGlovershire, MS 79435",
+"latitude": "-3.223155",
+"longitude": "102.000884",
+"creator_id": 8,
+"created_at": "2022-02-17T07:27:26.000000Z",
+"updated_at": "2022-02-17T07:27:26.000000Z",
+"coordinate": "-3.223155, 102.000884",
+"map_popup_content": "<div class=\"my-2\"><strong>Outlet Name:</strong><br><a href=\"http://laravel-leaflet-example.test/outlets/8\" title=\"View Voluptatem Molestias Outlet detail\">Voluptatem Molestias</a></div><div class=\"my-2\"><strong>Coordinate:</strong><br>-3.223155, 102.000884</div>"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+"102.000884",
+"-3.223155"
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": 9,
+"name": "Ad Deleniti",
+"address": "28998 Bahringer Summit\nPort Danial, NV 23918-3647",
+"latitude": "-3.310212",
+"longitude": "101.920807",
+"creator_id": 9,
+"created_at": "2022-02-17T07:27:26.000000Z",
+"updated_at": "2022-02-17T07:27:26.000000Z",
+"coordinate": "-3.310212, 101.920807",
+"map_popup_content": "<div class=\"my-2\"><strong>Outlet Name:</strong><br><a href=\"http://laravel-leaflet-example.test/outlets/9\" title=\"View Ad Deleniti Outlet detail\">Ad Deleniti</a></div><div class=\"my-2\"><strong>Coordinate:</strong><br>-3.310212, 101.920807</div>"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+"101.920807",
+"-3.310212"
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": 10,
+"name": "Nemo Est",
+"address": "7821 Makenzie Fort\nHowellland, DC 55647",
+"latitude": "-3.240192",
+"longitude": "102.037351",
+"creator_id": 10,
+"created_at": "2022-02-17T07:27:26.000000Z",
+"updated_at": "2022-02-17T07:27:26.000000Z",
+"coordinate": "-3.240192, 102.037351",
+"map_popup_content": "<div class=\"my-2\"><strong>Outlet Name:</strong><br><a href=\"http://laravel-leaflet-example.test/outlets/10\" title=\"View Nemo Est Outlet detail\">Nemo Est</a></div><div class=\"my-2\"><strong>Coordinate:</strong><br>-3.240192, 102.037351</div>"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+"102.037351",
+"-3.240192"
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": 11,
+"name": "Quisquam Saepe",
+"address": "98217 Volkman Groves\nNew Khalilchester, NE 18986",
+"latitude": "-3.30633",
+"longitude": "102.045465",
+"creator_id": 11,
+"created_at": "2022-02-17T07:27:26.000000Z",
+"updated_at": "2022-02-17T07:27:26.000000Z",
+"coordinate": "-3.30633, 102.045465",
+"map_popup_content": "<div class=\"my-2\"><strong>Outlet Name:</strong><br><a href=\"http://laravel-leaflet-example.test/outlets/11\" title=\"View Quisquam Saepe Outlet detail\">Quisquam Saepe</a></div><div class=\"my-2\"><strong>Coordinate:</strong><br>-3.30633, 102.045465</div>"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+"102.045465",
+"-3.30633"
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": 12,
+"name": "Inventore Eius",
+"address": "6295 Braxton Overpass\nEast Hortenseport, AL 69831-9540",
+"latitude": "-3.222363",
+"longitude": "101.990447",
+"creator_id": 12,
+"created_at": "2022-02-17T07:27:26.000000Z",
+"updated_at": "2022-02-17T07:27:26.000000Z",
+"coordinate": "-3.222363, 101.990447",
+"map_popup_content": "<div class=\"my-2\"><strong>Outlet Name:</strong><br><a href=\"http://laravel-leaflet-example.test/outlets/12\" title=\"View Inventore Eius Outlet detail\">Inventore Eius</a></div><div class=\"my-2\"><strong>Coordinate:</strong><br>-3.222363, 101.990447</div>"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+"101.990447",
+"-3.222363"
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": 13,
+"name": "Modi In",
+"address": "557 Eusebio Mount\nLangoshport, RI 36809",
+"latitude": "-3.292474",
+"longitude": "101.943668",
+"creator_id": 13,
+"created_at": "2022-02-17T07:27:26.000000Z",
+"updated_at": "2022-02-17T07:27:26.000000Z",
+"coordinate": "-3.292474, 101.943668",
+"map_popup_content": "<div class=\"my-2\"><strong>Outlet Name:</strong><br><a href=\"http://laravel-leaflet-example.test/outlets/13\" title=\"View Modi In Outlet detail\">Modi In</a></div><div class=\"my-2\"><strong>Coordinate:</strong><br>-3.292474, 101.943668</div>"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+"101.943668",
+"-3.292474"
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": 14,
+"name": "Voluptatem Placeat",
+"address": "4963 Labadie Trace Suite 349\nLeonelfort, NJ 79086-1094",
+"latitude": "-3.310981",
+"longitude": "102.00461",
+"creator_id": 14,
+"created_at": "2022-02-17T07:27:26.000000Z",
+"updated_at": "2022-02-17T07:27:26.000000Z",
+"coordinate": "-3.310981, 102.00461",
+"map_popup_content": "<div class=\"my-2\"><strong>Outlet Name:</strong><br><a href=\"http://laravel-leaflet-example.test/outlets/14\" title=\"View Voluptatem Placeat Outlet detail\">Voluptatem Placeat</a></div><div class=\"my-2\"><strong>Coordinate:</strong><br>-3.310981, 102.00461</div>"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+"102.00461",
+"-3.310981"
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": 15,
+"name": "Et Voluptatum",
+"address": "972 Harber Place\nDaniellemouth, VA 07629",
+"latitude": "-3.232668",
+"longitude": "101.978075",
+"creator_id": 15,
+"created_at": "2022-02-17T07:27:26.000000Z",
+"updated_at": "2022-02-17T07:27:26.000000Z",
+"coordinate": "-3.232668, 101.978075",
+"map_popup_content": "<div class=\"my-2\"><strong>Outlet Name:</strong><br><a href=\"http://laravel-leaflet-example.test/outlets/15\" title=\"View Et Voluptatum Outlet detail\">Et Voluptatum</a></div><div class=\"my-2\"><strong>Coordinate:</strong><br>-3.232668, 101.978075</div>"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+"101.978075",
+"-3.232668"
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": 16,
+"name": "Ex Totam",
+"address": "777 Devyn Prairie Apt. 290\nNew Sasha, MI 98678-0913",
+"latitude": "-3.255062",
+"longitude": "101.970699",
+"creator_id": 16,
+"created_at": "2022-02-17T07:27:26.000000Z",
+"updated_at": "2022-02-17T07:27:26.000000Z",
+"coordinate": "-3.255062, 101.970699",
+"map_popup_content": "<div class=\"my-2\"><strong>Outlet Name:</strong><br><a href=\"http://laravel-leaflet-example.test/outlets/16\" title=\"View Ex Totam Outlet detail\">Ex Totam</a></div><div class=\"my-2\"><strong>Coordinate:</strong><br>-3.255062, 101.970699</div>"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+"101.970699",
+"-3.255062"
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": 17,
+"name": "Numquam Et",
+"address": "53899 Cooper Knolls Suite 759\nMonroeside, MS 42278",
+"latitude": "-3.216565",
+"longitude": "102.033946",
+"creator_id": 17,
+"created_at": "2022-02-17T07:27:26.000000Z",
+"updated_at": "2022-02-17T07:27:26.000000Z",
+"coordinate": "-3.216565, 102.033946",
+"map_popup_content": "<div class=\"my-2\"><strong>Outlet Name:</strong><br><a href=\"http://laravel-leaflet-example.test/outlets/17\" title=\"View Numquam Et Outlet detail\">Numquam Et</a></div><div class=\"my-2\"><strong>Coordinate:</strong><br>-3.216565, 102.033946</div>"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+"102.033946",
+"-3.216565"
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": 18,
+"name": "Aperiam Eos",
+"address": "61258 Adelle Wall Suite 287\nRomachester, MS 82668",
+"latitude": "-3.249991",
+"longitude": "101.934582",
+"creator_id": 18,
+"created_at": "2022-02-17T07:27:26.000000Z",
+"updated_at": "2022-02-17T07:27:26.000000Z",
+"coordinate": "-3.249991, 101.934582",
+"map_popup_content": "<div class=\"my-2\"><strong>Outlet Name:</strong><br><a href=\"http://laravel-leaflet-example.test/outlets/18\" title=\"View Aperiam Eos Outlet detail\">Aperiam Eos</a></div><div class=\"my-2\"><strong>Coordinate:</strong><br>-3.249991, 101.934582</div>"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+"101.934582",
+"-3.249991"
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": 19,
+"name": "Quibusdam Numquam",
+"address": "66559 Daphne Views Apt. 451\nSethberg, KY 59740-9074",
+"latitude": "-3.293684",
+"longitude": "101.921583",
+"creator_id": 19,
+"created_at": "2022-02-17T07:27:26.000000Z",
+"updated_at": "2022-02-17T07:27:26.000000Z",
+"coordinate": "-3.293684, 101.921583",
+"map_popup_content": "<div class=\"my-2\"><strong>Outlet Name:</strong><br><a href=\"http://laravel-leaflet-example.test/outlets/19\" title=\"View Quibusdam Numquam Outlet detail\">Quibusdam Numquam</a></div><div class=\"my-2\"><strong>Coordinate:</strong><br>-3.293684, 101.921583</div>"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+"101.921583",
+"-3.293684"
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": 20,
+"name": "Soluta Rerum",
+"address": "23294 Daniel Orchard Apt. 408\nNorth Darius, GA 51938",
+"latitude": "-3.244059",
+"longitude": "101.988025",
+"creator_id": 20,
+"created_at": "2022-02-17T07:27:26.000000Z",
+"updated_at": "2022-02-17T07:27:26.000000Z",
+"coordinate": "-3.244059, 101.988025",
+"map_popup_content": "<div class=\"my-2\"><strong>Outlet Name:</strong><br><a href=\"http://laravel-leaflet-example.test/outlets/20\" title=\"View Soluta Rerum Outlet detail\">Soluta Rerum</a></div><div class=\"my-2\"><strong>Coordinate:</strong><br>-3.244059, 101.988025</div>"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+"101.988025",
+"-3.244059"
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": 21,
+"name": "Explicabo Sint",
+"address": "75974 Augustine Street Apt. 332\nJaydonfurt, MT 46770",
+"latitude": "-3.220802",
+"longitude": "102.009192",
+"creator_id": 21,
+"created_at": "2022-02-17T07:27:26.000000Z",
+"updated_at": "2022-02-17T07:27:26.000000Z",
+"coordinate": "-3.220802, 102.009192",
+"map_popup_content": "<div class=\"my-2\"><strong>Outlet Name:</strong><br><a href=\"http://laravel-leaflet-example.test/outlets/21\" title=\"View Explicabo Sint Outlet detail\">Explicabo Sint</a></div><div class=\"my-2\"><strong>Coordinate:</strong><br>-3.220802, 102.009192</div>"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+"102.009192",
+"-3.220802"
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": 22,
+"name": "Ut Sed",
+"address": "5000 Shanelle Coves\nLake Moisesport, CO 30969",
+"latitude": "-3.231471",
+"longitude": "101.999049",
+"creator_id": 22,
+"created_at": "2022-02-17T07:27:26.000000Z",
+"updated_at": "2022-02-17T07:27:26.000000Z",
+"coordinate": "-3.231471, 101.999049",
+"map_popup_content": "<div class=\"my-2\"><strong>Outlet Name:</strong><br><a href=\"http://laravel-leaflet-example.test/outlets/22\" title=\"View Ut Sed Outlet detail\">Ut Sed</a></div><div class=\"my-2\"><strong>Coordinate:</strong><br>-3.231471, 101.999049</div>"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+"101.999049",
+"-3.231471"
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": 23,
+"name": "Aperiam Ut",
+"address": "4603 Kathlyn Brooks Apt. 883\nAdalineville, HI 63863",
+"latitude": "-3.257953",
+"longitude": "102.039912",
+"creator_id": 23,
+"created_at": "2022-02-17T07:27:26.000000Z",
+"updated_at": "2022-02-17T07:27:26.000000Z",
+"coordinate": "-3.257953, 102.039912",
+"map_popup_content": "<div class=\"my-2\"><strong>Outlet Name:</strong><br><a href=\"http://laravel-leaflet-example.test/outlets/23\" title=\"View Aperiam Ut Outlet detail\">Aperiam Ut</a></div><div class=\"my-2\"><strong>Coordinate:</strong><br>-3.257953, 102.039912</div>"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+"102.039912",
+"-3.257953"
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": 24,
+"name": "Sed Veritatis",
+"address": "4546 Okey Village\nLake Merlinport, TN 51841",
+"latitude": "-3.23522",
+"longitude": "101.959563",
+"creator_id": 24,
+"created_at": "2022-02-17T07:27:26.000000Z",
+"updated_at": "2022-02-17T07:27:26.000000Z",
+"coordinate": "-3.23522, 101.959563",
+"map_popup_content": "<div class=\"my-2\"><strong>Outlet Name:</strong><br><a href=\"http://laravel-leaflet-example.test/outlets/24\" title=\"View Sed Veritatis Outlet detail\">Sed Veritatis</a></div><div class=\"my-2\"><strong>Coordinate:</strong><br>-3.23522, 101.959563</div>"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+"101.959563",
+"-3.23522"
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": 25,
+"name": "Omnis Eos",
+"address": "394 Wehner Shoal\nNorth Gerrychester, CT 38823",
+"latitude": "-3.283389",
+"longitude": "102.0409",
+"creator_id": 25,
+"created_at": "2022-02-17T07:27:26.000000Z",
+"updated_at": "2022-02-17T07:27:26.000000Z",
+"coordinate": "-3.283389, 102.0409",
+"map_popup_content": "<div class=\"my-2\"><strong>Outlet Name:</strong><br><a href=\"http://laravel-leaflet-example.test/outlets/25\" title=\"View Omnis Eos Outlet detail\">Omnis Eos</a></div><div class=\"my-2\"><strong>Coordinate:</strong><br>-3.283389, 102.0409</div>"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+"102.0409",
+"-3.283389"
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": 26,
+"name": "Sunt Unde",
+"address": "3780 Boehm Summit Apt. 750\nNew Rossburgh, NE 53509-2048",
+"latitude": "-3.262219",
+"longitude": "101.951444",
+"creator_id": 26,
+"created_at": "2022-02-17T07:27:26.000000Z",
+"updated_at": "2022-02-17T07:27:26.000000Z",
+"coordinate": "-3.262219, 101.951444",
+"map_popup_content": "<div class=\"my-2\"><strong>Outlet Name:</strong><br><a href=\"http://laravel-leaflet-example.test/outlets/26\" title=\"View Sunt Unde Outlet detail\">Sunt Unde</a></div><div class=\"my-2\"><strong>Coordinate:</strong><br>-3.262219, 101.951444</div>"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+"101.951444",
+"-3.262219"
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": 27,
+"name": "Nihil Quibusdam",
+"address": "8663 Baumbach Corner\nClevelandhaven, AL 77230",
+"latitude": "-3.252785",
+"longitude": "102.005395",
+"creator_id": 27,
+"created_at": "2022-02-17T07:27:26.000000Z",
+"updated_at": "2022-02-17T07:27:26.000000Z",
+"coordinate": "-3.252785, 102.005395",
+"map_popup_content": "<div class=\"my-2\"><strong>Outlet Name:</strong><br><a href=\"http://laravel-leaflet-example.test/outlets/27\" title=\"View Nihil Quibusdam Outlet detail\">Nihil Quibusdam</a></div><div class=\"my-2\"><strong>Coordinate:</strong><br>-3.252785, 102.005395</div>"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+"102.005395",
+"-3.252785"
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": 28,
+"name": "Omnis Nemo",
+"address": "9761 Beer Trafficway\nLake Norma, MO 23090-3825",
+"latitude": "-3.240013",
+"longitude": "101.955544",
+"creator_id": 28,
+"created_at": "2022-02-17T07:27:26.000000Z",
+"updated_at": "2022-02-17T07:27:26.000000Z",
+"coordinate": "-3.240013, 101.955544",
+"map_popup_content": "<div class=\"my-2\"><strong>Outlet Name:</strong><br><a href=\"http://laravel-leaflet-example.test/outlets/28\" title=\"View Omnis Nemo Outlet detail\">Omnis Nemo</a></div><div class=\"my-2\"><strong>Coordinate:</strong><br>-3.240013, 101.955544</div>"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+"101.955544",
+"-3.240013"
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": 29,
+"name": "Eum Ut",
+"address": "21262 Johns Mountain Suite 619\nWeberfurt, OK 74081",
+"latitude": "-3.264706",
+"longitude": "101.981955",
+"creator_id": 29,
+"created_at": "2022-02-17T07:27:26.000000Z",
+"updated_at": "2022-02-17T07:27:26.000000Z",
+"coordinate": "-3.264706, 101.981955",
+"map_popup_content": "<div class=\"my-2\"><strong>Outlet Name:</strong><br><a href=\"http://laravel-leaflet-example.test/outlets/29\" title=\"View Eum Ut Outlet detail\">Eum Ut</a></div><div class=\"my-2\"><strong>Coordinate:</strong><br>-3.264706, 101.981955</div>"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+"101.981955",
+"-3.264706"
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": 30,
+"name": "Et Est",
+"address": "22622 Reichert Locks\nNorth Friedrichville, KS 73024",
+"latitude": "-3.295636",
+"longitude": "101.996202",
+"creator_id": 30,
+"created_at": "2022-02-17T07:27:26.000000Z",
+"updated_at": "2022-02-17T07:27:26.000000Z",
+"coordinate": "-3.295636, 101.996202",
+"map_popup_content": "<div class=\"my-2\"><strong>Outlet Name:</strong><br><a href=\"http://laravel-leaflet-example.test/outlets/30\" title=\"View Et Est Outlet detail\">Et Est</a></div><div class=\"my-2\"><strong>Coordinate:</strong><br>-3.295636, 101.996202</div>"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+"101.996202",
+"-3.295636"
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"id": 31,
+"name": "Bambang",
+"address": "Jl Sudirman",
+"latitude": "1.4707189",
+"longitude": "100.612081",
+"creator_id": 30,
+"created_at": "2022-03-27T22:31:32.000000Z",
+"updated_at": "2022-03-27T22:31:38.000000Z",
+"coordinate": "1.4707189, 100.612081",
+"map_popup_content": "<div class=\"my-2\"><strong>Outlet Name:</strong><br><a href=\"http://laravel-leaflet-example.test/outlets/31\" title=\"View Bambang Outlet detail\">Bambang</a></div><div class=\"my-2\"><strong>Coordinate:</strong><br>1.4707189, 100.612081</div>"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+"100.612081",
+"1.4707189"
+]
+}
+}
+]
+}
