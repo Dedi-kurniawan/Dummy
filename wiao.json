@@ -1,0 +1,43 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+"type": "Feature",
+"properties": {
+"kode": "KGTN-2220321072955",
+"nama_kegiatan": "Fortemne possumus dicere eundem illum Torquatum? Sed plane dicit quod intellegit. Hoc mihi cum tuo fratre",
+"lat": "1.4707189743596947",
+"long": "100.61208111355076",
+"lokasi": "Jl. Jend Soedirman No.45",
+"coordinate": "1.4707189743596947,100.61208111355076",
+"map_popup_content": "<div class='my-2'><strong> Kegiatan :</strong><br><a href=http://epengendalian.test/app/kegiatan/KGTN-2220321072955>Fortemne possumus dicere eundem illum Torquatum? Sed plane dicit quod intellegit. Hoc mihi cum tuo fratre</a></div>"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+"1.4707189743596947",
+"100.61208111355076"
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"kode": "KGTN-2220321102711",
+"nama_kegiatan": "Is there any particular reason why you prefer",
+"lat": "0.5070677",
+"long": "101.4477793",
+"lokasi": "Jl. Jend Soedirman No.42",
+"coordinate": "0.5070677,101.4477793",
+"map_popup_content": "<div class='my-2'><strong> Kegiatan :</strong><br><a href=http://epengendalian.test/app/kegiatan/KGTN-2220321102711>Is there any particular reason why you prefer</a></div>"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+"0.5070677",
+"101.4477793"
+]
+}
+}
+]
+}
